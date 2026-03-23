@@ -54,6 +54,7 @@ Skin-Disease-Diagnosis-System/
 │   ├── web/
 │   └── pubspec.yaml
 └── README.md
+```
 
 ## Local Deployment on Android Device
 
