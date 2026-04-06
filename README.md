@@ -18,6 +18,7 @@ This project was developed to provide a simple and accessible way for users to u
 The system is designed for **preliminary screening only** and should not be used as a replacement for professional medical diagnosis.
 
 ## UI Preview
+<img width="1742" height="552" alt="Screenshot 2026-04-06 212421" src="https://github.com/user-attachments/assets/44123c45-e5ec-42d3-b916-7e45c48e3d13" />
 
 ## Features
 
